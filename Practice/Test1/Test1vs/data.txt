@@ -1,0 +1,5 @@
+Mercedes|SUV|2013|blue
+Volkswagen|Golf|2004|red
+Abc|Def|2018|green
+Volkswagen|aaa|2004|brown
+Volkswagen|bbb|2004|blue

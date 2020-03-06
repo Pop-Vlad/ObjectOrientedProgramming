@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Controller.cpp
+c:\users\popvl\source\repos\laboratory5\laboratory5\controller.cpp(87): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Laboratory5.vcxproj -> C:\Users\popvl\source\repos\Laboratory5\Debug\Laboratory5.exe

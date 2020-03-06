@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Controller.c
+c:\users\popvl\source\repos\laboratory4\laboratory4\controller.c(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Laboratory4.vcxproj -> C:\Users\popvl\source\repos\Laboratory4\Debug\Laboratory4.exe

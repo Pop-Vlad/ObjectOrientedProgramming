@@ -1,0 +1,3 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Main.cpp
+  Laboratory7-remastered.vcxproj -> C:\Users\popvl\source\OOP\Laboratory7-remastered\x64\Debug\Laboratory7-remastered.exe

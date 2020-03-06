@@ -1,0 +1,14 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Main.c
+c:\users\popvl\source\repos\laboratory2\laboratory2\main.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\popvl\source\repos\laboratory2\laboratory2\main.c(31): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\popvl\source\repos\laboratory2\laboratory2\main.c(38): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+  Generating code
+  4 of 11 functions (36.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Laboratory2.vcxproj -> C:\Users\popvl\source\repos\Laboratory2\Release\Laboratory2.exe

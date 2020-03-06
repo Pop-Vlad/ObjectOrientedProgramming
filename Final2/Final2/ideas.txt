@@ -1,0 +1,6 @@
+aaa proposed Adam 1
+bbb accepted Betty 1
+ccc accepted Charlie 3
+ddd proposed Charlie 2
+eee proposed Betty 2
+fff proposed Adam 3

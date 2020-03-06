@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.c
+c:\users\popvl\source\repos\laboratory1\laboratory1\source.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  Laboratory1.vcxproj -> C:\Users\popvl\source\repos\Laboratory1\Debug\Laboratory1.exe

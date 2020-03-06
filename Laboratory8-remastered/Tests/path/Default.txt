@@ -1,0 +1,5 @@
+4
+id_1 aaa 12.300000 22 photo_1
+id_2 aaa 12.300000 100 photo_1
+id_3 aaa 12.300000 100 photo_1
+id_4 size_4 12.300000 100 photo_1

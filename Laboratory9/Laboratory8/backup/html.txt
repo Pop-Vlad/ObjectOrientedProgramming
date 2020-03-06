@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MyList</title>
+    </head>
+    <body>
+        <table border = "1">
+            <tr>
+                <td>Id</td>
+                <td>Size</td>
+                <td>Infection level</td>
+                <td>Nr. of microfragments</td>
+                <td>Photo</td>
+            </tr><tr>
+                <td>aaa</td>
+                <td>bbb</td>
+                <td>10.3</td>
+                <td>100</td>
+                <td>ccc</td>
+            </tr>
+        </table>
+    </body>
+</html>

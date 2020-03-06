@@ -1,0 +1,3 @@
+﻿  GUI.cpp
+c:\users\popvl\source\oop\laboratory11\laboratory11\gui.cpp(213): warning C4715: 'GUI::getSelectedFragment': not all control paths return a value
+  Laboratory11.vcxproj -> C:\Users\popvl\source\OOP\Laboratory11\x64\Debug\Laboratory11.exe

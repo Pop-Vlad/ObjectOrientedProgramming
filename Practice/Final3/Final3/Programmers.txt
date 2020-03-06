@@ -1,0 +1,4 @@
+Adam 2 3
+Betty 1 4
+Charlie 0 1
+Daniel 0 3

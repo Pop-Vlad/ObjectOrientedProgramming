@@ -1,0 +1,5 @@
+abc|a1|A
+cde|c1|C
+defgh|d1|D
+mmmnnnppp|m1|M
+mnnp|m2|MM

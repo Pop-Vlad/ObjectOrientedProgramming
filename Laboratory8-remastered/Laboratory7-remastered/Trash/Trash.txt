@@ -1,0 +1,34 @@
+	void setId(std::string new_id) { this->id = new_id; }
+
+	void setSize(std::string new_size) { this->size = new_size; }
+
+	void setInfection(double new_infection) { this->infection = new_infection; }
+
+	void setMicrofragments(int new_microfragmnets) { this->microfragments = new_microfragmnets; }
+
+	void setId(std::string new_photograph) { this->photograph = new_photograph; }
+
+	#pragma once
+
+#include <exception>
+#include <string>
+
+
+class GenericException : std::exception {
+
+
+private:
+
+	std::string message;
+
+
+public:
+
+	GenericException(std::string init_message) : message(init_message) {};
+
+	virtual const char* what() const noexcept override {
+		return this->message.c_str();
+	}
+
+
+};

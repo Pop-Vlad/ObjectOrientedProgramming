@@ -1,0 +1,8 @@
+7
+1 a 4.000000 5 abc
+2 3x4x5 6.000000 7 8
+q1w 333x444x555 12.003400 10 picture.jpg
+example1 ex_size1 33.100000 12 ex_photo1
+example2 ex_size2 20.000000 16 ex_photo2
+example3 ex_size3 50.000000 16 ex_photo3
+example4 ex_size4 11.400000 33 ex_photo4

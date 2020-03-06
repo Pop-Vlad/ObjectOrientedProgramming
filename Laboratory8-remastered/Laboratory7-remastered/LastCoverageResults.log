@@ -1,0 +1,21 @@
+[2019-05-16 11:03:25] [info] Start Program:
+Path:"C:\Users\popvl\source\OOP\Laboratory7-remastered\x64\Debug\Laboratory7-remastered.exe"
+Arguments:
+Working directory: "C:\Users\popvl\source\OOP\Laboratory7-remastered\Laboratory7-remastered\"
+Modules: Selected: C:\Users\popvl\source\OOP\Laboratory7-remastered\x64\Debug\Laboratory7-remastered.exe Excluded: 
+Sources: Selected: C:\Users\popvl\source\OOP\Laboratory7-remastered\Laboratory7-remastered Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\popvl\AppData\Local\Temp\x1m2umzv.bzr 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-16 11:03:25] [info] Module: C:\Users\popvl\source\OOP\Laboratory7-remastered\x64\Debug\Laboratory7-remastered.exe is selected because it matches selected pattern: C:\Users\popvl\source\OOP\Laboratory7-remastered\x64\Debug\Laboratory7-remastered.exe
+[2019-05-16 11:03:25] [info] ----------------------------------------------------
+[2019-05-16 11:03:25] [info] Coverage binary generated in file: C:\Users\popvl\AppData\Local\Temp\x1m2umzv.bzr
+[2019-05-16 11:03:25] [info] ----------------------------------------------------

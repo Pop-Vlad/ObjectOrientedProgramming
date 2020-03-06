@@ -1,0 +1,6 @@
+aaa|a1,a2,a3|AAA
+bbb|b1,b2,b3,b4|BBB
+ccc|c1|C
+ab|a1,a2,a3|AB
+c|a1,a2,a3|C
+a|b, c,d|abc

@@ -1,0 +1,11 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Console.cpp
+  Controller.cpp
+  FileRepository.cpp
+  Main.cpp
+  Models.cpp
+  MemoryRepository.cpp
+  Test.cpp
+  Validator.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'libmysql.lib'

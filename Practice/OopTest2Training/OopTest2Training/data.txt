@@ -1,0 +1,2 @@
+ BMI - Date: 2018.07.12; Value: 20.000000 1
+ BP - Date: 2018.08.20; Systolic value: 125; Diastolic value: 80 0

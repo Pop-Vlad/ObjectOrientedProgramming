@@ -1,0 +1,3 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Main.cpp
+c:\users\popvl\source\oop\laboratory8\laboratory8\main.cpp : fatal error C1041: cannot open program database 'C:\Users\popvl\source\OOP\Laboratory8\Laboratory8\x64\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS

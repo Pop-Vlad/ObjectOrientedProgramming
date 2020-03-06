@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Controller.cpp
+c:\users\popvl\source\repos\ooptest\ooptest\controller.cpp(93): warning C4700: uninitialized local variable 'count' used
+  OopTest.vcxproj -> C:\Users\popvl\source\repos\OopTest\Debug\OopTest.exe

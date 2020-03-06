@@ -1,0 +1,15 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  CSVRepository.cpp
+  Console.cpp
+  Controller.cpp
+  FileRepository.cpp
+  HTMLRepository.cpp
+  Main.cpp
+  Test.cpp
+  Validator.cpp
+  Generating code
+  164 of 635 functions (25.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    56 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Laboratory8.vcxproj -> C:\Users\popvl\source\OOP\Laboratory8\x64\Release\Laboratory8.exe

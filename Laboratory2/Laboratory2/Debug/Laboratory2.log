@@ -1,0 +1,3 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Main.c
+  Laboratory2.vcxproj -> C:\Users\popvl\source\repos\Laboratory2\Debug\Laboratory2.exe

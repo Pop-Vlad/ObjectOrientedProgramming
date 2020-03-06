@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Main.c
+c:\users\popvl\source\repos\laboratory4-bonus\laboratory4-bonus\main.c(28): warning C4013: 'printf' undefined; assuming extern returning int
+  Laboratory4-Bonus.vcxproj -> C:\Users\popvl\source\repos\Laboratory4-Bonus\Debug\Laboratory4-Bonus.exe
